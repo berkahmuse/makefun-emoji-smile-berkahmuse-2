@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """One Emoji, One Smile - entry for @berkahmuse-2.
 
-Writes exactly one emoji, U+1F917 HUGGING FACE, to /output/entry.txt:
-a warm hug offered to a stranger - kind, friendly, gently funny,
-universal, and clearly chosen rather than the default smiley.
+Writes exactly one emoji, U+1FAF6 HEART HANDS, to /output/entry.txt:
+two hands shaping a heart - a warm, open gesture of affection
+offered to a stranger: kind, friendly, gently funny, universal,
+and clearly chosen rather than the default smiley.
 """
 import os
 
-EMOJI = "\U0001F917"  # 🤗 Hugging Face
+EMOJI = "\U0001FAF6"  # 🫶 Heart Hands
 
 def main():
     os.makedirs("/output", exist_ok=True)

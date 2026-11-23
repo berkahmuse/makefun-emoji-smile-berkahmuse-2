@@ -8,9 +8,9 @@ Entry for the [One Emoji, One Smile](https://make.fun/c/u-0xkianno-one-emoji-one
 
 ## The entry
 
-`main.py` writes exactly one emoji — 🤗 (U+1F917, Hugging Face) — to `/output/entry.txt`, and nothing else.
+`main.py` writes exactly one emoji — 🫶 (U+1FAF6, Heart Hands) — to `/output/entry.txt`, and nothing else.
 
-Why this emoji: a hug offered to a stranger is warm at first glance, kind and gently funny with no context needed, reads the same for any age or background, and is clearly chosen rather than the first smiley that comes to mind — while staying instantly readable and appropriate coming from someone unknown.
+Why this emoji: two hands shaping a heart is warm at first glance, kind and gently funny with no context needed, reads the same for any age or background, and is clearly chosen rather than the first smiley that comes to mind — while staying instantly readable and appropriate coming from someone unknown.
 
 ## Run
 
